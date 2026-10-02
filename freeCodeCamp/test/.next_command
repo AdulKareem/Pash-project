@@ -22,3 +22,4 @@ ls --color=auto
 more LICENSE
 more LICENSE-MIT
 clear
+ls --color=auto
