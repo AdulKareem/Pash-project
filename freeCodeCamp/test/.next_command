@@ -86,3 +86,7 @@ mkdir fonts
 ls --color=auto
 mv roboto.woff fonts/
 find .
+mv lato.woff fonts/
+find .
+cd /workspace/project/website
+mv lato.ttf fonts
