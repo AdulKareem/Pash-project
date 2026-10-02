@@ -121,3 +121,7 @@ mv header.png ..
 ls --color=auto
 cd ..
 ls --color=auto
+find . -name "*.png" -o -name "*.jpg"
+cd /workspace/project/website
+__vsc_prompt_cmd_original
+find -name images
