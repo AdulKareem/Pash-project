@@ -90,3 +90,6 @@ mv lato.woff fonts/
 find .
 cd /workspace/project/website
 mv lato.ttf fonts
+mv menlo.woff fonts/
+cd /workspace/project/website
+mv menlo.otf fonts
